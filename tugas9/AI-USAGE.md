@@ -1,0 +1,2 @@
+Dalam pengerjaan Tugas 9, saya menggunakan ChatGPT sebagai alat bantu pembelajaran dan pengembangan program. AI membantu saya memahami konsep HTTP GET dan POST, membuat validasi data menggunakan PHP, memeriksa kesalahan kode, serta memberikan panduan pengujian program.
+Saya tetap melakukan penerapan kode, menjalankan program melalui XAMPP, dan menguji hasilnya secara langsung melalui browser dan DevTools Network.
